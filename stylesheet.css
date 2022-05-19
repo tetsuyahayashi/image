@@ -111,7 +111,7 @@
  width: 900px;
  background-color: violet;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 2;
 }
 
