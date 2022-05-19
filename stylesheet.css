@@ -35,7 +35,7 @@
  width: 100px;
  background-color: white;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 10;
 }
 
@@ -44,7 +44,7 @@
  width: 200px;
  background-color: red;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 9;
 }
 
@@ -53,7 +53,7 @@
  width: 300px;
  background-color: orange;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 8;
 }
 
@@ -62,7 +62,7 @@
  width: 400px;
  background-color: yellow;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 7;
 }
 
@@ -71,7 +71,7 @@
  width: 500px;
  background-color: green;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 6;
 }
 
@@ -80,7 +80,7 @@
  width: 600px;
  background-color: greenyellow;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 5;
 }
 
@@ -89,7 +89,7 @@
  width: 700px;
  background-color: cyan;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 4;
 }
 
@@ -98,7 +98,7 @@
  width: 800px;
  background-color: blue;
  border: 3px solid black;
- position: relative;
+ position: absolute;
  z-index: 3;
 }
 
