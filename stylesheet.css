@@ -30,6 +30,10 @@
  font-size: 50px; 
 }
 
+.image-size {
+ text-align: right;
+}
+
 .px11 {
  height: 100px;
  width: 100px;
