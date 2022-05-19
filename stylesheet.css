@@ -1,36 +1,36 @@
-.15px {
+.px1 {
  font-size: 15px; 
 }
 
-.20px {
+.px2 {
  font-size: 20px; 
 }
 
-.25px {
+.px3 {
  font-size: 25px; 
 }
 
-.30px {
+.px4 {
  font-size:30px; 
 }
 
-.35px {
+.px5 {
  font-size: 35px; 
 }
 
-.40px {
+.px6 {
  font-size: 40px; 
 }
 
-.45px {
+.px7 {
  font-size: 45px; 
 }
 
-.50px {
+.px8 {
  font-size: 50px; 
 }
 
-.100px {
+.px11 {
  height: 100px;
  width: 100px;
  background-color: white;
@@ -38,7 +38,7 @@
  position: relative;
 }
 
-.200px {
+.px12 {
  height: 200px;
  width: 200px;
  background-color: red;
@@ -46,7 +46,7 @@
  position: absolute;
 }
 
-.300px {
+.px13 {
  height: 300px;
  width: 300px;
  background-color: orange;
@@ -54,7 +54,7 @@
  position: absolute; 
 }
 
-.400px {
+.px14 {
  height: 400px;
  width: 400px;
  background-color: yellow;
@@ -62,7 +62,7 @@
  position: absolute;
 }
 
-.500px {
+.px15 {
  height: 500px;
  width: 500px;
  background-color: green;
@@ -70,7 +70,7 @@
  position: absolute;
 }
 
-.600px {
+.px16 {
  height: 600px;
  width: 600px;
  background-color: greenyellow;
@@ -78,7 +78,7 @@
  position: absolute;
 }
 
-.700px {
+.px17 {
  height: 700px;
  width: 700px;
  background-color: cyan;
@@ -86,7 +86,7 @@
  position: absolute;
 }
 
-.800px {
+.px18 {
  height: 800px;
  width: 800px;
  background-color: blue;
@@ -94,7 +94,7 @@
  position: absolute;
 }
 
-.900px {
+.px19 {
  height: 900px;
  width: 900px;
  background-color: violet;
@@ -102,7 +102,7 @@
  position: absolute;
 }
 
-.1000px {
+.px20 {
  height: 1000px;
  width: 1000px;
  background-color: pink;
